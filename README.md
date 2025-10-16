@@ -10,10 +10,7 @@
 
 ### 💫 About Me
 
-I'm **Sunder Reddy**, a passionate **Cloud/DevOps Engineer** from **Virginia, United states of America**, with a strong background in **cloud technologies and automation**.  
-I enjoy building **scalable and resilient systems** that empower teams to deliver software faster and more efficiently.  
-
-Here you'll find some of my **projects, contributions, and open-source work**.  
+I'm **Sunder Reddy**, a passionate **Cloud/DevOps Engineer** from **Virginia, United states of America**, with a strong background in **cloud technologies and automation**.  I enjoy building **scalable and resilient systems** that empower teams to deliver software faster and more efficiently.  Here you'll find some of my **projects, contributions, and open-source work**.  
 
 ---
 
