@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sunderreddy93/sunderreddy93/blob/main/Sunder_Reddy_Banner.png" alt="Sunder Reddy Banner" />
+  <img src="https://raw.githubusercontent.com/sunderreddy93/sunderreddy93/main/Sunder_Reddy_Banner.png" alt="Sunder Reddy Banner" width="80%" />
 </p>
 <!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Sunder Reddy</h1>
